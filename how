@@ -1,0 +1,8 @@
+To run it on a new computer:
+
+Copy the folder there.
+Open a terminal inside it.
+Type npm install to get the dependencies back.
+Type npm run dev to start.
+
+the backup zip
